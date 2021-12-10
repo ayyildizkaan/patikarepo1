@@ -1,5 +1,5 @@
-# Patika Veri Yapıları ve Algoritmalar 
-## Proje 2 - Merge Sort
+# Veri Yapıları ve Algoritmalar 
+## Merge Sort
 
 ### [16,21,11,8,12,22] -> Merge Sort
 
